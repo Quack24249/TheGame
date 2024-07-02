@@ -1,0 +1,27 @@
+My new concept for the game:
+
+Dungeon crawling rougelike with proximity voice-chat.
+The most important part of the concept being the proximity voice chat and keeping the maps dark in order to increase chaos.
+Lots of inspiration from Lethal Company.
+
+Other ideas:
+
+Day/Might cycle - monsters increase at night
+you can choose to camp outside of the dungeon or inside but camping is never safe
+rest bars - you have to take turns guarding camp -  either inside the dungeon or outside of it
+
+Make it based around guilds, ie you join a guild with your friends and thats why you explore the dungeon 
+You have a guild house you can return to and upgrade
+
+Encourage solo play - individual random missions - it is not good when everyone just sticks together no matter what, 
+encourage random experiences and interesting gameplay
+
+Very rare (1%) enemy mission where you attempt to sabotage your guild
+
+If all members of the guild die you have to restart the save, but dying should be much harder than in Lethal Company
+In 3 hour playthrough expect one full restart
+
+Dead players have sommething to do - ghost mining crystals or something idk yet
+
+Different roles/weapons -> magic swords summons etc gunslinger
+
