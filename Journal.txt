@@ -1,0 +1,8 @@
+4/8/2025
+THIS TIME WE DO IT FOR REAL
+
+I believe I was using Unreal Enginer or GoDot.
+GoDot is free and open-source, but it seems a little more limited than Unreal.
+Personally, I would like to use GoDot, as I like the idea of using an open-source platform to develop.
+
+Pops will join the repository and we will start smurfing on creating this game.
