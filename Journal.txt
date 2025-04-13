@@ -6,3 +6,6 @@ GoDot is free and open-source, but it seems a little more limited than Unreal.
 Personally, I would like to use GoDot, as I like the idea of using an open-source platform to develop.
 
 Pops will join the repository and we will start smurfing on creating this game.
+
+4/13/2025
+ITS GO TIME
